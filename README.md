@@ -1,5 +1,7 @@
 # 自用 OpenWrt 云编译配置
 
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/he-sb/Actions-OpenWrt/blob/master/LICENSE)
+
 暂时仅树莓派 4B 可用，使用配置文件 [rpi4.config](./rpi4.config) 进行编译。
 
 鸣谢：
